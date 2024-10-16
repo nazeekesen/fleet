@@ -1,0 +1,3 @@
+- op: add
+  path: /data/dynamic-item
+  value: added by patch
